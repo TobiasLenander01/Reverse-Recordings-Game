@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ISvMwUb35P/Va/htNGtK+pPcpJrq43HT9UoahB44q6gwDdEWx+ZunWnToLnLFSRYJlRf3ZK2HNbpcCxg6oFPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tobia\\Desktop\\Programming C#\\Assignment 7\\TobiasLenanderAssignment7\\TobiasLenanderAssignment7\\TobiasLenanderAssignment7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\soundtouch.net\\2.3.2\\soundtouch.net.2.3.2.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\soundtouch.net.naudiosupport\\2.3.2\\soundtouch.net.naudiosupport.2.3.2.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\tobia\\.nuget\\packages\\wavefilemanipulator\\1.0.0\\wavefilemanipulator.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
